@@ -1,0 +1,12 @@
+{
+  "name": "tabris",
+  "version": "0.1.0",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "eslint .",
+    "start": "tabris serve"
+  },
+  "dependencies": {
+    "tabris": "^2.1.0"
+  }
+}
